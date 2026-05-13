@@ -13,7 +13,7 @@ class MyApp extends StatelessWidget {
       home: Scaffold(
         body: Center(
           child: Text(
-            'Hello, Flutter!',
+            'May 13',
             style: TextStyle(fontSize: 24, fontWeight: FontWeight.bold),
           ),
         ),
